@@ -1,0 +1,15 @@
+Appendix A - Initial interview with the client to understand and identify the problem
+
+Appendix B - The entire code
+
+Appendix C - Final interview after app completion
+
+Appendix D - Sources
+
+Criterion A - Understanding the problem and proposing a solution.
+
+Criterion B - Planning the solution
+
+Criterion C - Technical parts of the code I implemented (limited to 10 technicalities due to word count)
+
+Criterion E - A final reflection of the process.
